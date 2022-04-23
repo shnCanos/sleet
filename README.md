@@ -2,7 +2,11 @@
 
 Meant for me, it is public for easier cloning, but you can use it too.
 
-What it does is pretty simple, although it doesn't work with all package managers, such as xbps. It writes the apps you install manually into list.shnaw which is stored in $HOME/.config/installer/list.shnaw Then, if you ever change distro, or simply delete your whole drive you have it as a backup! Very nice!
+What it does is pretty simple, although it doesn't work with all package managers, such as xbps. 
+
+It writes the packages you install into "$HOME/.config/installer/list.shnaw".
+
+Then, if you ever change distro, or simply delete your whole drive you have it as a backup! Very nice!
 
 # Setting up
 
