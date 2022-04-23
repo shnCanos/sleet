@@ -2,11 +2,12 @@
 
 Meant for me but you can use it too.
 
-What it does is pretty simple, although it doesn't work with all package managers, such as xbps. 
-
 It writes the packages you install into "$HOME/.config/installer/list.shnaw".
 
 Then, if you ever change distro, or simply delete your whole drive you have it as a backup! Very nice!
+
+
+NOTE: It doesn't work with all package managers. For instance, it doesn't work with xbps, because it has various commands such as xbps-install or xbps-query 
 
 # Setting up
 
