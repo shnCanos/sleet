@@ -114,6 +114,8 @@ fn remove(args: &mut Vec<String>) {
 
 /// Runs a command
 fn run_command(command: &str, args: &mut Vec<String>) {
+    println!("Running: {} {}", command, args.join(" "));
+    
     args.insert(0, command.to_string());
 
     Command::new("sudo")
