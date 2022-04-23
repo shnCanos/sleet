@@ -1,6 +1,6 @@
 # Sleet
 
-Meant for me, it is public for easier cloning, but you can use it too.
+Meant for me but you can use it too.
 
 What it does is pretty simple, although it doesn't work with all package managers, such as xbps. 
 
