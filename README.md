@@ -4,7 +4,7 @@ Meant for me, it is public for easier cloning, but you can use it too.
 
 What it does is pretty simple, although it doesn't work with all package managers, such as xbps:
 
-    Go into the file and change the consts
+Go into the file and change the consts
     INSTALLER = [Your package manager]
     INSTALL_ARG = [The argument your package manager takes to install]
     REMOVE_ARG = [Same as INSTALL_ARG, but for removing]
