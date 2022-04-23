@@ -16,6 +16,9 @@ Go into the file and change the following consts
 # Commands:
 
 search: queries the package(s)
+
 install: installs the package(s)
+
 remove: uninstalls the package(s)
+
 recover: installs every package on the list
